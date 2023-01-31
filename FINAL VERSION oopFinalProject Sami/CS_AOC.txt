@@ -1,0 +1,79 @@
+
+CORE COURSES
+COURSE TITLE, PREREQUISITES, TERM
+
+Introduction to Programming with Python, None, Fall
+Discrete Mathematics, Fall, Spring 
+Object-Oriented Programming with Java, Introduction to Programming with Python, Spring
+Object-Oriented Design in Java, Object-Oriented Programming with Java, Fall
+Data Structures in Java, Object-Oriented Programming with Java; Discrete Math, Fall
+Software Engineering, Data Structures; Object-Oriented Design in Java, Spring
+Algorithms, Discrete Math; Data Structures, Spring
+
+--------------------------------------------------------------------------------------
+
+ELECTIVES
+
+*Applications
+Augmented Reality
+Computational Biology Tutorial (also in Theory)
+Computer Graphics (also in Theory)
+Computer Vision 
+Databases
+Front-end Development (no prerequisite)
+Human-Centered Computing
+Mobile Applications (also in Languages)
+Robotics (also in Artificial Intelligence)
+Usable Privacy and Security (prerequisite: 1 CS course)
+Virtual Reality
+Web Security
+
+*Artificial Intelligence
+Artificial Intelligence (also in Theory)
+Machine Learning
+Natural Language Processing (prerequisite: 1 CS Course)
+Robotics (also in Applications)
+
+*Mathematics
+Calculus (I, II, or III)
+Dealing with Data (I or II)
+Graph Theory
+Information Theory
+Linear Algebra
+Number Theory
+Randomized Algorithms (also in Theory)
+
+*Systems
+Computer Architecture (no prerequisite; extra work required to count as a Systems elective)
+Distributed Computing (also in Theory)
+Embedded Systems (also in Languages)
+Hacking Tutorial (also in Languages)
+Operating Systems
+
+*Languages
+C
+C++
+C#
+Compilers Tutorial (also in Theory)
+Embedded Systems (also in Systems)
+Functional Programming (no prerequisite)
+Hacking Tutorial (also in Systems)
+Mobile Applications (also in Applications)
+Principles of Programming Languages
+
+*Theory 
+Advanced Algorithms
+Advanced Discrete Mathematics
+Artificial Intelligence (also in Artificial Intelligence)
+Compilers Tutorial (also in Languages)
+Computational Biology Tutorial (also in Applications)
+Computer Graphics (also in Applications)
+Cryptography
+Distributed Computing (also in Systems)
+Randomized Algorithms (also in Math)
+Theory of Computation (prerequisite: Discrete Math and Data Structures)
+Topics in Algorithms 
+
+
+
+

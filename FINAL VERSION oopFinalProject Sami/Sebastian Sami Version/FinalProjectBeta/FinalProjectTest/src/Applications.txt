@@ -1,0 +1,12 @@
+1) Augmented Reality
+2) Computational Biology Tutorial (also in Theory)
+3) Computer Graphics (also in Theory)
+4) Computer Vision
+5) Databases
+6) Front-end Development (no prerequisite)
+7) Human-Centered Computing
+8) Mobile Applications (also in Languages)
+9) Robotics (also in Artificial Intelligence)
+10) Usable Privacy and Security (prerequisite: 1 CS course)
+11) Virtual Reality
+12) Web Security

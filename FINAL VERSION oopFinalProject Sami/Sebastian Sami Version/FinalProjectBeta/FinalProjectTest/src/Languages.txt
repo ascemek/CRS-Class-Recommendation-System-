@@ -1,0 +1,9 @@
+1) C
+2) C++
+3) C#
+4) Compilers Tutorial (also in Theory)
+5) Embedded Systems (also in Systems)
+6) Functional Programming (no prerequisite)
+7) Hacking Tutorial (also in Systems)
+8) Mobile Applications (also in Applications)
+9) Principles of Programming Languages

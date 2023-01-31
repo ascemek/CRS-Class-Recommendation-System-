@@ -1,0 +1,5 @@
+1) Computer Architecture (no prerequisite; extra work required to count as a Systems elective)
+2) Distributed Computing (also in Theory)
+3) Embedded Systems (also in Languages)
+4) Hacking Tutorial (also in Languages)
+5) Operating Systems
